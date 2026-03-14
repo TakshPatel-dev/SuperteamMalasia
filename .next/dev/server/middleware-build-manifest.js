@@ -1,0 +1,55 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/72d44_next_dist_compiled_74b26def._.js",
+      "static/chunks/72d44_next_dist_shared_lib_a45280e2._.js",
+      "static/chunks/72d44_next_dist_client_9b50c377._.js",
+      "static/chunks/72d44_next_dist_2efdcc63._.js",
+      "static/chunks/72d44_next_app_92c5dc37.js",
+      "static/chunks/[next]_entry_page-loader_ts_ed932c55._.js",
+      "static/chunks/72d44_react_c5f5c915._.js",
+      "static/chunks/72d44_react-dom_cjs_react-dom_development_96f3693d.js",
+      "static/chunks/72d44_react-dom_0fc97ddf._.js",
+      "static/chunks/72d44_ffbcdb47._.js",
+      "static/chunks/[root-of-the-server]__f29f82fc._.js",
+      "static/chunks/superteam-malaysia_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-superteam-malaysia_pages__app_6ce7c8fe._.js"
+    ],
+    "/_error": [
+      "static/chunks/72d44_next_dist_compiled_74b26def._.js",
+      "static/chunks/72d44_next_dist_shared_lib_ead1c558._.js",
+      "static/chunks/72d44_next_dist_client_9b50c377._.js",
+      "static/chunks/72d44_next_dist_8d21c915._.js",
+      "static/chunks/72d44_next_error_eaad215f.js",
+      "static/chunks/[next]_entry_page-loader_ts_3e5f10df._.js",
+      "static/chunks/72d44_react_c5f5c915._.js",
+      "static/chunks/72d44_react-dom_cjs_react-dom_development_96f3693d.js",
+      "static/chunks/72d44_react-dom_0fc97ddf._.js",
+      "static/chunks/72d44_ffbcdb47._.js",
+      "static/chunks/[root-of-the-server]__d85b0cfd._.js",
+      "static/chunks/superteam-malaysia_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-superteam-malaysia_pages__error_85f5dbee._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/72d44_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_2eabee4d._.js",
+    "static/chunks/72d44_next_dist_compiled_react-dom_7995dc4f._.js",
+    "static/chunks/72d44_next_dist_compiled_react-server-dom-turbopack_c0fb59a9._.js",
+    "static/chunks/72d44_next_dist_compiled_next-devtools_index_a1216823.js",
+    "static/chunks/72d44_next_dist_compiled_2298730a._.js",
+    "static/chunks/72d44_next_dist_client_40bfec18._.js",
+    "static/chunks/72d44_next_dist_4140e843._.js",
+    "static/chunks/72d44_@swc_helpers_cjs_5d88dcff._.js",
+    "static/chunks/superteam-malaysia_a0ff3932._.js",
+    "static/chunks/turbopack-superteam-malaysia_26914579._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];

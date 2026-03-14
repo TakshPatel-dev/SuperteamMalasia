@@ -1,0 +1,15 @@
+__turbopack_load_page_chunks__("/_error", [
+  "static/chunks/72d44_next_dist_compiled_74b26def._.js",
+  "static/chunks/72d44_next_dist_shared_lib_ead1c558._.js",
+  "static/chunks/72d44_next_dist_client_9b50c377._.js",
+  "static/chunks/72d44_next_dist_8d21c915._.js",
+  "static/chunks/72d44_next_error_eaad215f.js",
+  "static/chunks/[next]_entry_page-loader_ts_3e5f10df._.js",
+  "static/chunks/72d44_react_c5f5c915._.js",
+  "static/chunks/72d44_react-dom_cjs_react-dom_development_96f3693d.js",
+  "static/chunks/72d44_react-dom_0fc97ddf._.js",
+  "static/chunks/72d44_ffbcdb47._.js",
+  "static/chunks/[root-of-the-server]__d85b0cfd._.js",
+  "static/chunks/superteam-malaysia_pages__error_2da965e7._.js",
+  "static/chunks/turbopack-superteam-malaysia_pages__error_85f5dbee._.js"
+])

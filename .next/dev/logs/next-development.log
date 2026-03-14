@@ -1,0 +1,100 @@
+[00:00:01.128] Server  LOG     
+[00:00:01.129] Server  LOG       We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.129] Server  LOG       The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:01.129] Server  LOG       	- target was set to ES2017 (For top-level `await`. Note: Next.js only polyfills for the esmodules target.)
+[00:00:01.129] Server  LOG       	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:01.129] Server  LOG     
+[00:00:01.130] Server  LOG       The following mandatory changes were made to your tsconfig.json:
+
+[00:00:01.130] Server  LOG       	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:01.130] Server  LOG     
+[00:00:01.281] Server  LOG     ✓ Ready in 823ms
+[00:00:07.862] Server  LOG     ○ Compiling / ...
+[00:00:09.257] Server  ERROR   ⨯ ./superteam-malaysia/app/globals.css:1478:8
+Parsing CSS source code failed
+  1476 | }
+  1477 |
+> 1478 | @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+       |        ^
+  1479 |
+  1480 | * { box-sizing: border-box; margin: 0; padding: 0; }
+  1481 |
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./superteam-malaysia/app/globals.css [Client Component Browser]
+    ./superteam-malaysia/app/layout.tsx [Server Component]
+
+
+[00:00:11.770] Browser ERROR   uncaughtError: Error: ./superteam-malaysia/app/globals.css:1478:8
+Parsing CSS source code failed
+  1476 | }
+  1477 |
+> 1478 | @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+       |        ^
+  1479 |
+  1480 | * { box-sizing: border-box; margin: 0; padding: 0; }
+  1481 |
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./superteam-malaysia/app/globals.css [Client Component Browser]
+    ./superteam-malaysia/app/layout.tsx [Server Component]
+
+
+[00:00:12.034] Browser ERROR   ./superteam-malaysia/app/globals.css:1478:8
+Parsing CSS source code failed
+  1476 | }
+  1477 |
+> 1478 | @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+       |        ^
+  1479 |
+  1480 | * { box-sizing: border-box; margin: 0; padding: 0; }
+  1481 |
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./superteam-malaysia/app/globals.css [Client Component Browser]
+    ./superteam-malaysia/app/layout.tsx [Server Component]
+[00:00:12.267] Browser ERROR   ./superteam-malaysia/app/globals.css:1478:8
+Parsing CSS source code failed
+  1476 | }
+  1477 |
+> 1478 | @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+       |        ^
+  1479 |
+  1480 | * { box-sizing: border-box; margin: 0; padding: 0; }
+  1481 |
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./superteam-malaysia/app/globals.css [Client Component Browser]
+    ./superteam-malaysia/app/layout.tsx [Server Component]
+[00:00:12.267] Browser ERROR   ./superteam-malaysia/app/globals.css:1478:8
+Parsing CSS source code failed
+  1476 | }
+  1477 |
+> 1478 | @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+       |        ^
+  1479 |
+  1480 | * { box-sizing: border-box; margin: 0; padding: 0; }
+  1481 |
+
+@import rules must precede all rules aside from @charset and @layer statements
+
+Import trace:
+  Client Component Browser:
+    ./superteam-malaysia/app/globals.css [Client Component Browser]
+    ./superteam-malaysia/app/layout.tsx [Server Component]
+[00:02:57.406] Server  LOG     ✓ Compiled in 399ms
+[00:02:58.963] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:17.640] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
