@@ -1,7 +1,7 @@
 # Superteam Malaysia
 
 Official website for Superteam Malaysia — the home for Solana builders in Malaysia.
-
+Hosted on Vercel:superteam-malysia.vercel.app
 ## Tech Stack
 
 - **Framework**: Next.js 14 (App Router)
